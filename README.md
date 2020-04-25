@@ -12,3 +12,6 @@ I changed the tip values from [0%, 10%, 20%] to [10%, 15%, 20%] and allowed the 
 * Pass by value vs. pass by reference.
 * Formatting Strings.
 * Color literals.
+
+## Final Result
+![](Tipsy_Demo.gif)
